@@ -1,4 +1,4 @@
-package Nutrimetic.POC.Springcloudeurekaclient.controller;
+package Nutrimetic.POC.Springcloudeurekaservice.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;

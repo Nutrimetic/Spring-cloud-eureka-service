@@ -1,4 +1,4 @@
-# spring-cloud-eureka-client
+# spring-cloud-eureka-service
 
 Pour faire fonctionner le projet sous eclipse, il faut le plugin sts sous eclipse (ou avoir spring-sts) et dans les configuration de lancement, définir 2 instances avec deux paramètres spécifiques :
 
