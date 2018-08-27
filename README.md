@@ -2,7 +2,7 @@
 
 Ce projet est un exemple d'enregistrement d'un service auprès d'un serviceDiscovery grâce à la technologie Netflix OSS Eureka.
 
-Nécessite le lancement d'un service discovery (Spring-cloud-eureka-serviceDiscovery)
+Nécessite le lancement d'un service discovery (Spring-cloud-eureka-serviceDiscovery/README.md)
 
 Pour faire fonctionner le projet sous eclipse, il faut le plugin sts sous eclipse (ou avoir spring-sts) et dans les configuration de lancement, définir 2 instances avec deux paramètres spécifiques :
 
